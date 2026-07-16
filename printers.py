@@ -1,6 +1,5 @@
 # file printers
 
-from tools import *
 from objects import *
 
 from fractions import Fraction # importing this to make output prettier
