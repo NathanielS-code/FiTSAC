@@ -1,7 +1,7 @@
 # this file contains all the tools the code uses
 
-from objects import *
-from printers import *
+from .objects import *
+from .printers import *
 
 # force free assumption
 def setup_SUSY_algebra(field_num, field_list, transformation_list):
