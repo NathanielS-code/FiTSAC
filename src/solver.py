@@ -1,6 +1,6 @@
-from tools import *
-from objects import *
-from printers import *
+from .tools import *
+from .objects import *
+from .printers import *
 
 # solver goes here
 
