@@ -8,6 +8,6 @@ The pdf in this repository titled "FiTSAC_paper.pdf" explains how to use this co
 # Using the code
 Simply run `!pip install git+https://github.com/NathanielS-code/FiTSAC.git` in order to use this repository.
 
-Then to import the relevant functions from either run `import fitsac` or `from fitsac import *`. The examples provided in the paper use the latter import.
+Then to import the relevant functions, either run `import fitsac` or `from fitsac import *`. The examples provided in the paper use the latter.
 
 Refer to the paper for the list of functions/classes and how to use them.
