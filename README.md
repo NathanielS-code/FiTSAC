@@ -3,7 +3,7 @@ FiTSAC stands for Field Theory Symbolic Algebra Calculator. It runs on a custom 
 It can currently solve the Supersymmetric Algebra Closure problem 4D, N=1 interaction-free SUSY theories with simple field index symmetries, although future versions may expand this capability.
 
 # Paper
-The pdf in this repository titled "FiTSAC_paper.pdf" explains how to use this code, and provides examples.
+The pdf in this repository titled "FiTSAC_paper.pdf" explains how to use this code, and provides examples in the **Appendix**.
 
 # Using the code
 Simply run `!pip install git+https://github.com/NathanielS-code/FiTSAC.git` in order to use this repository.
